@@ -8,7 +8,7 @@ export var config = {
   parent: "game-container",
   pixelArt: true,
   autoRound: false,
-  backgroundColor: "#000000",
+  backgroundColor: "#888888",
   scene: PlayScene,
   physics: {
     default: "arcade",
